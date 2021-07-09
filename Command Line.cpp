@@ -23,11 +23,12 @@ int main() {
 		else if (command == "echo") {
 			std::cout << "Enter text to echo: >>>";
 			std::string text = "";
-			std::strin
+			std::string echo = "echo";
 			std::string command = echo + text;
-			const char* c = command;g echo = "echo";
+			const char* c = command;
 			std::cin >> text;
 			system(command);
+			/* this will throw an error, haven't had a chance to convert std::string to const char* yet :) */
 		}
 		else {
 			std::cout << "'" << command << "' is not recognised as a \ncommand, nor as a program." << std::endl;

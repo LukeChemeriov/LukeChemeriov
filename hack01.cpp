@@ -1,3 +1,17 @@
+/* hack01 */
+
+/* 
+
+A super basic hacking simulator I was working on. If anybody has a compiler and gullible friends they  want to trick, go ahead. I just made it because
+I was bored. :)
+
+Супер простой симулятор взлома, над которым я работал. Если у кого-то есть компилятор и доверчивые друзья, которых они хотят обмануть, продолжайте. 
+я просто сделал это, потому что mне было скучно. )))
+
+*/
+
+
+
 #include <iostream>
 #include <windows.h>
 

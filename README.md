@@ -1,5 +1,5 @@
 *English*
-# Hi! What's up?
+# Hey! What's up?
 
 My name is a СтранныйРусский (technically I'm Luke Chemerov, but we won't worry about that yet).
 

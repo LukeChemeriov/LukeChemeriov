@@ -3,18 +3,15 @@
 
 My name is СтранныйРусский (technically I'm Luke Chemeriov, but we won't worry about that yet).
 
-
-<img alt="Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeChemeriov&theme=radical&langs_count=6&layout=compact" />
-<i>(If this says I use HTML, CSS and such, I don't. That used to be because of the fakescanners section of my <a href="https://github.com/LukeChemeriov/Malware/tree/main/Fake%20Scanners">malware</a> repository, but it hasn't updated yet.)</i>
-
-
-
-
-
-
-
 I am a Russian C++ programmer who has nothing else to do except to have fun with sometimes useless programs with some malware slotted in, which, of course, is used responsibly. I'm not stupid...
 
-Please enjoy what I have here. For malware, the passwords will be `chemeriov`. 
+Please enjoy what I have here! :)
 
-Thank you for reading this. Go watch some anime (like death note).
+Thank you for reading this. Go watch some anime (or look at my forked repository).
+
+
+# facts about myself
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeChemeriov)](https://github.com/LukeChemeriov/github-readme-stats)
+<BR><i> I promise I'm a C++ dev, but I tend to experiment with python every now and then ;)<i/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeChemeriov)](https://github.com/LukeChemeriov/github-readme-stats)

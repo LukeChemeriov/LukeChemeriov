@@ -13,5 +13,4 @@ Thank you for reading this. Go watch some anime (or look at my forked repository
 # facts about myself
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeChemeriov)](https://github.com/LukeChemeriov/github-readme-stats)
-<BR><i> I promise I'm a C++ dev, but I tend to experiment with python every now and then ;)<i/>
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeChemeriov)](https://github.com/LukeChemeriov/github-readme-stats)

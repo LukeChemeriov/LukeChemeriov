@@ -12,5 +12,6 @@ Thank you for reading this. Go watch some anime (or look at my forked repository
 
 # facts about myself
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeChemeriov)](https://github.com/LukeChemeriov/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeChemeriov)](https://github.com/LukeChemeriov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukeChemeriov)](https://github.com/LukeChemeriov)<br>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeChemeriov)](https://github.com/LukeChemeriov)<br>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=LukeChemeriov&theme=nord)](https://github.com/LukeChemeriov)<br>

@@ -1,7 +1,7 @@
 
 # Hey! What's up?
 
-My name is Nexq (technically I'm Luke Chemeriov, but we won't worry about that).
+My name is Nex (technically I'm Luke Chemeriov, but we won't worry about that).
 
 I am a Russian C++ programmer who has nothing else to do except to have fun with sometimes useless programs with some malware slotted in, which, of course, is used responsibly. I'm not stupid...
 

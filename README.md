@@ -9,6 +9,7 @@ Please enjoy what I have here! :)
 
 Thank you for reading this. Go watch some anime (or look at my forked repository).
 
+*NB: I haven't committed in a while due to a, ahem, military background, but I'll be back soon!*
 
 # facts about myself
 

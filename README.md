@@ -3,7 +3,7 @@
 
 My name is Nex (technically I'm Luke Chemeriov, but we won't worry about that).
 
-I am a Russian C++ programmer who has nothing else to do except to have fun with sometimes useless programs with some malware slotted in, which, of course, is used responsibly. I'm not stupid...
+I am a Russian (no hate please) C++ programmer who has nothing else to do except to have fun with pretty odd and occationally useless programs with some malware slotted in, which, of course, is used responsibly. I'm not stupid...
 
 Please enjoy what I have here! :)
 

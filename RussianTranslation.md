@@ -1,5 +1,5 @@
 
-<h1> Hi! How are you?</h1>
+<h1> Привет! Как вы? </h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=LukeChemeriov alt="My Profile Views"> </p>
 
 Меня зовут Некс (технически я Лука Чемериов, но мы не будем об этом беспокоиться).

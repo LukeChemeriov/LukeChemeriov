@@ -11,8 +11,7 @@ Please enjoy what I have here! 😺
 Thank you for reading this. Go watch some anime (or look at my forked repository).
 
 
-<h2>Technologies I'm familiar with:</h2> <br>
-<br>
+<h2>Technologies I'm familiar with:</h2> 
 <i>Note that I could not find some icons 😆</i>
 
 

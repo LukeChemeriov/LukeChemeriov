@@ -2,6 +2,21 @@
 <h1> Hi! How are you?</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=LukeChemeriov alt="My Profile Views"> </p>
 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/RussianTranslation.md"><button>Русский</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/GermanTranslation.md"><button>Deutsch</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/ChineseTranslation.md"><button>國語</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/JapaneseTranslation.md"><button>日本語</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/FinnishTranslation.md"><button>Suomi</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/LatvianTranslation.md"><button>Latviešu</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/PolishTranslation.md"><button>Polski</button></a>, 
+<a href="https://github.com/LukeChemeriov/LukeChemeriov/blob/main/CzechTranslation.md"><button>Český</button></a>
+
+
+
+
+
+
+
 My name is Nex (technically I'm Luke Chemeriov, but we won't worry about that).
 
 I am a Russian (no hate please) C++ programmer, who loves playing around with operating systems, C++, Python, and malware. That makes for an interesting combination, doesn't it?

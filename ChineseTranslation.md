@@ -2,7 +2,7 @@
 <h1> 你好！ 你好嗎？</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=LukeChemeriov alt="My Profile Views"> </p>
 
-我的名字是Nex（嚴格來說我是Luke Chemeriov，但我們不會擔心這個問題）。
+我的名字是LTX(嚴格來說我是Luke Chemeriov，但我們不會擔心這個問題)。
 
 我是一個俄羅斯（請不要討厭）C++程序員，喜歡玩操作系統、C++、Python和惡意軟件。這讓我們的組合很有趣，不是嗎？
 

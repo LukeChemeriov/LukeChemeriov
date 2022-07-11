@@ -1,7 +1,7 @@
 <h1>Ahoj! Jak se máš?</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=LukeChemeriov alt="My Profile Views"> </p>
 
-Jmenuji se Nex (technicky vzato jsem Luke Čemeriov, ale tím se nebudeme zabývat).
+Jmenuji se LTX (technicky vzato jsem Luke Čemeriov, ale tím se nebudeme zabývat).
 
 Jsem ruský (no hate please) programátor v C++, který si rád hraje s operačními systémy, C++, Pythonem a malwarem. To je zajímavá kombinace, že?
 
@@ -39,11 +39,11 @@ Kontaktujte mě!
 <br>
 <br> 
   <a href="mailto:chemeriov@gmail.com" target="_blank">
-    <img align="left" alt="Nex - Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="LTX - Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="(http://tiny.cc/NexTwitter" target="_blank">
-    <img align="left" alt="Nex - Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img align="left" alt="LTX - Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://LukeChemeriov.github.io/" target="_blank">
-    <img align="left" alt="Nex - GitHub Pages" width="24px" src="https://vectorlogo.zone/logos/github/github-icon.svg"  />
+    <img align="left" alt="LTX - GitHub Pages" width="24px" src="https://vectorlogo.zone/logos/github/github-icon.svg"  />
   </a>

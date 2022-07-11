@@ -2,7 +2,7 @@
 <h1> Hallo! Wie geht es?</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=LukeChemeriov alt="My Profile Views"> </p>
 
-Ich heiße Nex (technisch, ich bin Lukas Schemeriov, aber darum werden wir uns nicht kümmern).
+Ich heiße LTX (technisch, ich bin Lukas Schemeriov, aber darum werden wir uns nicht kümmern).
 
 Ich bin ein russischer (bitte kein Hass) C++-Programmierer, der gerne mit Betriebssystemen, C++, Python und Malware herumspielt. Das ist doch eine interessante Kombination, nicht wahr?
 

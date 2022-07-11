@@ -17,7 +17,7 @@
 
 
 
-My name is Nex (technically I'm Luke Chemeriov, but we won't worry about that).
+My name is LTX (technically I'm Luke Chemeriov, but we won't worry about that).
 
 I am a Russian (no hate please) C++ programmer, who loves playing around with operating systems, C++, Python, and malware. That makes for an interesting combination, doesn't it?
 

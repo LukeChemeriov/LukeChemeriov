@@ -41,11 +41,11 @@
 <br>
 <br> 
   <a href="mailto:chemeriov@gmail.com" target="_blank">
-    <img align="left" alt="Nex - Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+    <img align="left" alt="LTX - Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
   <a href="(http://tiny.cc/NexTwitter" target="_blank">
-    <img align="left" alt="Nex - Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+    <img align="left" alt="LTX - Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://LukeChemeriov.github.io/" target="_blank">
-    <img align="left" alt="Nex - GitHub Pages" width="24px" src="https://vectorlogo.zone/logos/github/github-icon.svg"  />
+    <img align="left" alt="LTX - GitHub Pages" width="24px" src="https://vectorlogo.zone/logos/github/github-icon.svg"  />
   </a>
